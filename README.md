@@ -1,0 +1,1 @@
+This program simulates an array of three petrol pumps, keeping track of each's quantity of gallons of fuel, price per gallon, and type of fuel. To prevent clerical errors, the pump object has constants that define the maximum quantity of the fuel store, and the maximum and minimum prices of the foreseeable future.
